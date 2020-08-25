@@ -1,5 +1,5 @@
 # Ambiguity-function
-Calculating and plotting ambiguity function of a radar network
+Calculating and plotting ambiguity function of a radar-repeater network
 
 According to [1], the Ambiguity Function (AF) of an antenna array calculates the correlation between steering vectors associated to different incoming signal directions, i.e., different target angles in a given network configuration. For calculating the AF, it is assumed that a specific target angle (true angle) 𝜃p impinges on a given configuration. The correlation of this steering vector with those associated to different target angles (estimated angles) 𝜃q ∈ (−90∘, 90∘) is calculated according to [1]. The AF can be used to find the unambiguous range of the given network configuration.
 
